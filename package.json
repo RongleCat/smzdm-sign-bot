@@ -1,0 +1,29 @@
+{
+  "name": "smzdm-sign-bot",
+  "version": "0.0.1",
+  "description": "smzdm auto sign bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/RongleCat/smzdm-sign-bot.git"
+  },
+  "keywords": [
+    "smzdm",
+    "auto",
+    "sign",
+    "bot"
+  ],
+  "author": "Ronglecat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RongleCat/smzdm-sign-bot/issues"
+  },
+  "homepage": "https://github.com/RongleCat/smzdm-sign-bot#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "dayjs": "^1.9.1"
+  }
+}
